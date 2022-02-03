@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Ramyasri Jasthi pursuing Master's in Applied Computer science in Northwest Missouri University.I worked for 3 years in Tata Consultancy Services.My hobbies are watcing Television and playing Badminton.
+
 
 <!--
 **jramyasri/jramyasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
